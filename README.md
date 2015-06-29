@@ -12,6 +12,11 @@ csshint for sublime
 3. `mv ./sublime-csshint ${packages}`
 4. add `.csshintrc` for your Project root
 
+## keys
+
+* windows/linux => `alt+k`
+* mac => `command+k`
+
 ## .csshintrc
 
 [demo](.csshintrc)
